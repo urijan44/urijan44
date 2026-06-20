@@ -11,9 +11,8 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=logo=appveyor&logo=slack&logoColor=white)
 
 ### Open Source
-<a href="https://github.com/urijan44/ReturnResultKit" target="_blank"><img src="https://img.shields.io/badge/ReturnResultKit-000000?style=logo=appveyor&logo=github&logoColor=FFFFFF"/></a>
-<a href="https://github.com/urijan44/CSVParser" target="_blank"><img src="https://img.shields.io/badge/CSVParser-000000?style=logo=appveyor&logo=github&logoColor=FFFFFF"/></a>
-<a href="https://github.com/urijan44/SequenceQueue" target="_blank"><img src="https://img.shields.io/badge/SequenceQueue-000000?style=logo=appveyor&logo=github&logoColor=FFFFFF"/></a>
+<a href="https://github.com/urijan44/LayoutBuilder" target="_blank"><img src="https://img.shields.io/badge/LayoutBuilder-000000?style=logo=appveyor&logo=github&logoColor=FFFFFF"/></a>
+<a href="https://github.com/urijan44/ViewDispatcher" target="_blank"><img src="https://img.shields.io/badge/ViewDispatcher-000000?style=logo=appveyor&logo=github&logoColor=FFFFFF"/></a>
 <a href="https://github.com/urijan44/InitialWordSpliter" target="_blank"><img src="https://img.shields.io/badge/InitialWordSpliter-000000?style=logo=appveyor&logo=github&logoColor=FFFFFF"/></a>
 
 ### Personal Service
